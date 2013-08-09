@@ -24,3 +24,9 @@ Backbone example
                                         };
                                         
 9,Collection-------'reset' method allows us to update an entire collection at once
+
+10,Router--------mostly only need single Router,the author said
+
+11,Router--------can use method 'navigate' to change URL
+
+12,in the url '#' is to 'id/name' in this page
