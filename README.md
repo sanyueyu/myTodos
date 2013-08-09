@@ -30,3 +30,5 @@ Backbone example
 11,Router--------can use method 'navigate' to change URL
 
 12,in the url '#' is to 'id/name' in this page
+
+13,json2.js is need when use 'Backbone.sync' method
